@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "118512896807",
+    "firebase_url": "https://pixaclubapp.firebaseio.com",
+    "project_id": "pixaclubapp",
+    "storage_bucket": "pixaclubapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118512896807:android:38f15cc403b8e1ab",
+        "android_client_info": {
+          "package_name": "com.uniarcadia.pixaclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118512896807-02o0fhdk99n6vgckpsblrovuktec83sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniarcadia.pixaclubapp",
+            "certificate_hash": "689cacb59fae35dd10a659ddd9ecbd2292060168"
+          }
+        },
+        {
+          "client_id": "118512896807-ukjtpt4q3mhskepos9v8jva6fgopp10a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniarcadia.pixaclubapp",
+            "certificate_hash": "b185756dabfe8d51eabc156aac4b0aa811744966"
+          }
+        },
+        {
+          "client_id": "118512896807-8clialtqsnsnh1jrpll00udhbtovckpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOepgSgrpMasyQbgU-cH_PzfI-iXNguA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118512896807-8clialtqsnsnh1jrpll00udhbtovckpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
